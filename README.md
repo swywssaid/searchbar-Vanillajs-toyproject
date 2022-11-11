@@ -1,1 +1,1 @@
-# searchbar-javascript-toyproject
+# searchbar-Vanillajs-toyproject
